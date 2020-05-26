@@ -1,5 +1,7 @@
 {
   "name": "SampleGoolocation",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
